@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm yongguHwang, a Pentester, 
+I'm Yonggu, a Pentester, 
 
 ### 💰 CVE & Bug Bounty
 | ID | 분야 | 대상 | 취약점 | 발급 기관 | 위험도 |
